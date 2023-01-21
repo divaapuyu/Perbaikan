@@ -1,5 +1,5 @@
 package classobjek3;
-
+  
 public class mahasiswa{
     private String nim, prodi;
     private int spp, angkatan, semester, bayar_spp_semester;

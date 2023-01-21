@@ -2,7 +2,7 @@ package classobjek3;
 
 public class undika {
     private String nama, alamat;
-    
+      
     //setter
     public void setnama(String n){
          nama=n;

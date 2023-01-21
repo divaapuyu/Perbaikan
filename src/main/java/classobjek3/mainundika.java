@@ -1,7 +1,7 @@
 
 package classobjek3;
 import java.io.*;
-
+  
 public class mainundika {
  public static void main(String[] args) {
         BufferedReader rd = new BufferedReader(new InputStreamReader(System.in));

@@ -1,5 +1,5 @@
 package classobjek3;
-
+  
 public class karyawan {
 private String nik, bagian;
 private int kehadiran, gaji_per_hari, totalgaji;
